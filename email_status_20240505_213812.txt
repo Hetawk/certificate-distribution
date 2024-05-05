@@ -1,0 +1,8 @@
+Email Delivery Status:
+
+ID: 18, Email sent to: ekd@ekddigital.com, Status: Success
+ID: 98, Email sent to: example1@example.com, Status: Success
+ID: 99, Email sent to: example2@example.com, Status: Success
+ID: 100, Email sent to: example3@example.com, Status: Success
+ID: 101, Email sent to: example4@example.com, Status: Success
+ID: 102, Email sent to: example5@example.com, Status: Success
