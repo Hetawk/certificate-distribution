@@ -1,0 +1,11 @@
+.venv/
+.idea/
+__pycache__/
+
+
+email_sender/email_status_20240505_132832.txt
+email_sender/email_status_20240505_195549.txt
+
+.env
+email_sender/.env
+

@@ -1,0 +1,7 @@
+Email Delivery Status:
+
+ID: 65, Email sent to: info.webashraf@gmail.com, Status: Success
+ID: 66, Email sent to: xiaoqi06122024@qq.com, Status: Success
+ID: 46, Email sent to: mimzhasan@gmail.com, Status: Success
+ID: 47, Email sent to: louisedelice@gmail.com, Status: Success
+ID: 35, Email sent to: kebbehtarnue94@gmail.com, Status: Success

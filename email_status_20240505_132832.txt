@@ -1,0 +1,66 @@
+Email Delivery Status:
+
+ID: 1, Email sent to: abdulkarimkamara270@gmail.com, Status: Success
+ID: 2, Email sent to: abdulznkoroma@gmail.com, Status: Success
+ID: 3, Email sent to: abkhassni@gmail.com, Status: Success
+ID: 4, Email sent to: opabunm.23@intl.zju.edu.cn, Status: Failed
+ID: 5, Email sent to: umuhozajesus94@gmail.com , Status: Success
+ID: 6, Email sent to: joe1987alexander@gmail.com, Status: Success
+ID: 7, Email sent to: amidu.mansaray@njala.edu.sl, Status: Success
+ID: 8, Email sent to: ampedu@yahoo.com, Status: Success
+ID: 9, Email sent to: ibrahimsbah241@gmail.com, Status: Success
+ID: 10, Email sent to: bindaben@gmail.com, Status: Success
+ID: 11, Email sent to: boakaidunor74@gmail.com, Status: Success
+ID: 12, Email sent to: acalebonoja@gmail.com, Status: Success
+ID: 13, Email sent to: cathyumoh@gmail.com, Status: Success
+ID: 14, Email sent to: cpsgeh@gmail.com, Status: Success
+ID: 15, Email sent to: cjondjaa@163.com, Status: Success
+ID: 16, Email sent to: chrisdinho92@gmail.com, Status: Success
+ID: 17, Email sent to: sieemmanuel@gmail.com, Status: Success
+ID: 18, Email sent to: ekd@ekddigital.com, Status: Success
+ID: 19, Email sent to: iofatoyinbo@gmail.com, Status: Success
+ID: 20, Email sent to: beyanflomo7@gmail.com, Status: Success
+ID: 21, Email sent to: fredksm@yahoo.com, Status: Success
+ID: 22, Email sent to: sohngeraldcanaan@gmail.com, Status: Success
+ID: 23, Email sent to: gideonfbsolre@gmail.com , Status: Success
+ID: 24, Email sent to: hafeezKiazolu@gmail.com, Status: Success
+ID: 25, Email sent to: shillingharweling@gmail.com, Status: Success
+ID: 26, Email sent to: hassansiatta@gmail.com, Status: Success
+ID: 27, Email sent to: humedmahmud1994@gmail.com, Status: Success
+ID: 28, Email sent to: abrhimpp09@gmail.com, Status: Success
+ID: 29, Email sent to: ishaya5573@gmail.com, Status: Success
+ID: 30, Email sent to: jallahgibson@163.com, Status: Success
+ID: 31, Email sent to: jamesmkuwa@yahoo.com, Status: Success
+ID: 32, Email sent to: jmnyakoon@gmail.com, Status: Success
+ID: 33, Email sent to: cjnwonnah@gmail.com, Status: Success
+ID: 34, Email sent to: kalonjibruno10@gmail.com, Status: Success
+ID: 35, Email sent to: kebbehtarnue94@mail.com, Status: Success
+ID: 36, Email sent to: amunekekennedyemeka@gmail.com, Status: Success
+ID: 37, Email sent to: weefark105@gmail.com, Status: Success
+ID: 38, Email sent to: elchriskumak@gmail.com, Status: Success
+ID: 39, Email sent to: laimahdowie4@gmail.com , Status: Success
+ID: 40, Email sent to: lsapunka@gmail.com, Status: Success
+ID: 41, Email sent to: lozithelomoyo@gmail.com, Status: Success
+ID: 42, Email sent to: bidolafranck105@gmail.com, Status: Success
+ID: 43, Email sent to: kpukumumamawah8@gmail.com, Status: Success
+ID: 44, Email sent to: mzphyu.bd@gmail.com, Status: Success
+ID: 45, Email sent to: tmelvinbee@gmail.com, Status: Success
+ID: 46, Email sent to: mimizhasan@gmail.com, Status: Success
+ID: 47, Email sent to: louisedelice@gmail.com , Status: Success
+ID: 48, Email sent to: allmuganga98@gmail.com, Status: Success
+ID: 49, Email sent to: msbayon85@gmail.com , Status: Success
+ID: 50, Email sent to: mndinehafo@mpa.snai.edu, Status: Success
+ID: 51, Email sent to: obediscojohnnyjr@gmail.com, Status: Success
+ID: 52, Email sent to: feropatience@gmail.com, Status: Success
+ID: 53, Email sent to: mbasap00@fzt.jcu.cz , Status: Success
+ID: 54, Email sent to: sallynjeri278@gmail.com, Status: Success
+ID: 55, Email sent to: samuelsmulbah6@gmail.com, Status: Success
+ID: 56, Email sent to: samuelsmulbah6@gmail.com, Status: Success
+ID: 57, Email sent to: aubintoukak@yahoo.com, Status: Success
+ID: 58, Email sent to: Sofizgreat@gmail.com, Status: Success
+ID: 59, Email sent to: miehsudue@gmail.com, Status: Success
+ID: 60, Email sent to: kerkulatitusd8@gmail.com, Status: Success
+ID: 61, Email sent to: tumusengeanied673@gmail.com, Status: Success
+ID: 62, Email sent to: kolubah2014@gmail.com, Status: Success
+ID: 63, Email sent to: verogoodgirl@gmail.com, Status: Success
+ID: 64, Email sent to: cheesemanviola@gmail.com, Status: Success
